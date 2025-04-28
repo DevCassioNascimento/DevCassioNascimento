@@ -1,8 +1,8 @@
 ### Ola Eu sou o Dev Cassio Nascimento 
 
 
-- 🔭 Trabalho com Java e AWS 
-- 🌱 No momento estou aprendendo Java e AWS 
+- 🔭 Trabalho com Python  
+- 🌱 No momento estou aprendendo Python e automação 
 - 📫 Contate-me pelo email: cassionascimentovieira@outlook.com
 
 
