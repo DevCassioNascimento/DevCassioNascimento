@@ -1,39 +1,57 @@
-### Ola Eu sou o Dev Cassio Nascimento 
+## 👋 Olá! Eu sou o Cássio Nascimento
 
+Sou desenvolvedor focado em **Python**, especialmente com aplicações de **automação**, **back-end** e **tecnologias em nuvem**. Estou em constante evolução, sempre buscando aplicar a programação para resolver problemas do mundo real.
 
-- 🔭 Trabalho com Python  
-- 🌱 No momento estou aprendendo Python e automação 
-- 📫 Contate-me pelo email: cassionascimentovieira@outlook.com
+---
 
+### 🚀 Tecnologias que estou aprendendo e trabalhando:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="Java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="Spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"/>
+</div>
+
+---
+
+### 📈 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCassioNascimento&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevCassioNascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevCassioNascimento&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevCassioNascimento&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160"/>
 </div>
 
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  
-</div>
+### 📫 Como me encontrar:
 
 <div align="left">
-  <a href= "https://www.instagram.com/cassiosnascimento" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <a href= "https://discord.gg/ce9qruuf" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href= "cassionascimentovieira@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/c%C3%A1ssio-silveira-nascimento-97aa43254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:cassionascimentovieira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/c%C3%A1ssio-silveira-nascimento-97aa43254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.instagram.com/cassiosnascimento" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discord.gg/ce9qruuf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
+
+---
+
+### ✨ Um pouco sobre mim:
+
+- 🔭 Atualmente focado em projetos com **Python e automação de processos**
+- 🌱 Estudando **Django**, **Selenium**, **FastAPI** e **AWS**
+- 🧠 Apaixonado por aprender e resolver problemas com tecnologia
+
+---
 
