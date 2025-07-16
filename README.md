@@ -1,34 +1,49 @@
 ## 👋 Olá! Eu sou o Cássio Nascimento
 
-Sou desenvolvedor focado em **Python**, especialmente com aplicações de **automação**, **back-end** e **tecnologias em nuvem**. Estou em constante evolução, sempre buscando aplicar a programação para resolver problemas do mundo real.
+Desenvolvedor apaixonado por transformar ideias em soluções eficientes.  
+Atualmente trabalho com **Python**, focado em **automação de processos**, **back-end com Django** e **análise de dados**.  
+Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada projeto.
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo e trabalhando:
+### 🧠 Principais Habilidades
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="Java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="Spring logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="Django" title="Django"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
 </div>
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCassioNascimento&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevCassioNascimento&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevCassioNascimento&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevCassioNascimento&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
 
 ---
 
-### 📫 Como me encontrar:
+### 🌐 Onde me encontrar:
 
 <div align="left">
   <a href="mailto:cassionascimentovieira@outlook.com" target="_blank">
@@ -47,11 +62,14 @@ Sou desenvolvedor focado em **Python**, especialmente com aplicações de **auto
 
 ---
 
-### ✨ Um pouco sobre mim:
+### ✨ Sobre mim:
 
-- 🔭 Atualmente focado em projetos com **Python e automação de processos**
-- 🌱 Estudando **Django**, **Selenium**, **FastAPI** e **AWS**
-- 🧠 Apaixonado por aprender e resolver problemas com tecnologia
+- 🔭 Atualmente desenvolvendo projetos com foco em **automação com Python** e **Django**
+- 📊 Explorando dados com **Pandas** e **NumPy**
+- 🌱 Em constante evolução, com interesse por boas práticas, testes e deploy
+- 🎨 Criativo, curioso e determinado a transformar código em impacto real
 
 ---
 
+> “A programação é a arte de ensinar uma máquina a pensar — com lógica, estilo e propósito.”  
+> <sub><sup>— Cássio Nascimento</sup></sub>
