@@ -1,5 +1,8 @@
 ## 👋 Olá! Eu sou o Cássio Nascimento
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7A637&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Automação%2C+Django%2C+e+An%C3%A1lise+de+Dados)](https://git.io/typing-svg)
+
+
 Desenvolvedor apaixonado por transformar ideias em soluções eficientes.  
 Atualmente trabalho com **Python**, focado em **automação de processos**, **back-end com Django** e **análise de dados**.  
 Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada projeto.
