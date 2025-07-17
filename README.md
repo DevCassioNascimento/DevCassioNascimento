@@ -67,7 +67,8 @@ Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada
 
 ### 🐍 Meus commits ganham vida
 
-![snake gif](https://github.com/DevCassioNascimento/DevCassioNascimento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DevCassioNascimento/DevCassioNascimento/output/github-contribution-grid-snake.svg)
+
 
 
 ### ✨ Sobre mim:
