@@ -65,6 +65,11 @@ Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada
 
 ---
 
+### 🐍 Meus commits ganham vida
+
+![snake gif](https://github.com/DevCassioNascimento/DevCassioNascimento/blob/output/github-contribution-grid-snake.svg)
+
+
 ### ✨ Sobre mim:
 
 - 🔭 Atualmente desenvolvendo projetos com foco em **automação com Python** e **Django**
