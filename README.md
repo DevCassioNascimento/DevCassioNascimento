@@ -4,7 +4,8 @@
 
 
 Desenvolvedor apaixonado por transformar ideias em soluções eficientes.  
-Atualmente trabalho com **Python**, focado em **automação de processos**, **back-end com Django** e **análise de dados**.  
+Atualmente trabalho com **Python**, focado em **automação de processos** e **análise de dados**.
+Atuando/Estudando paralelamente com desenvolvimento utilizando  **C#** ,  **ASP.NET Core**
 Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada projeto.
 
 ---
@@ -15,8 +16,6 @@ Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="Django" title="Django"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
   <img width="12"/>
@@ -42,7 +41,6 @@ Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
 </div>
@@ -75,8 +73,9 @@ Busco unir **tecnologia**, **criatividade** e **inteligência prática** em cada
 
 ### ✨ Sobre mim:
 
-- 🔭 Atualmente desenvolvendo projetos com foco em **automação com Python** e **Django**
-- 📊 Explorando dados com **Pandas** e **NumPy**
+- 🤖 Atualmente desenvolvendo projetos com foco em **automação com Python**
+- 🤖 Explorando dados com **Pandas** e **NumPy**
+- 💻 Projetos Freelancer com **C#** , **ASP.NET**
 - 🌱 Em constante evolução, com interesse por boas práticas, testes e deploy
 - 🎨 Criativo, curioso e determinado a transformar código em impacto real
 
