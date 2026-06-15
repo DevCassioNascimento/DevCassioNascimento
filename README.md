@@ -1,60 +1,47 @@
-🚀 Cássio Nascimento
-Desenvolvedor Python • Automação • C# / ASP.NET • Análise de Dados
-<div align="center">
+# Olá, eu sou o Cassio Nascimento 
 
-</div>
+Como desenvolvedor backend especializado no ecossistema Java, meu foco é construir sistemas de alta disponibilidade, escaláveis e com código limpo. Tenho sólida experiência aplicando princípios de **Clean Architecture** e **Domain-Driven Design (DDD)** para transformar requisitos de negócio complexos em software robusto e de fácil manutenção.
 
-Sou desenvolvedor apaixonado por transformar desafios reais em soluções práticas, rápidas e inteligentes.
-Trabalho com Python (RPA/Automação) e avanço paralelamente em C# e ASP.NET Core, atuando na integração entre back-end, dados e automações inteligentes — sempre com foco em produtividade e impacto real.
+---
 
-🧩 Stack Principal
-<div align="left">
-Linguagens	Frameworks	Ferramentas	Banco de Dados
-🐍 Python	🐍 Django	🧪 Selenium	🐬 MySQL
-⚙️ C#	🌐 ASP.NET Core	🐙 Git	🗄️ SQLite
-☕ JavaScript	🐍 Pandas / NumPy	🖥️ VS Code / PyCharm	📊 Excel
-</div>
-🔥 Tecnologias que domino
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> </div>
-🧠 O que eu faço no dia a dia
+###  Tecnologias e Ferramentas
 
-🤖 Automação de Processos (RPA) com Python + Selenium + APIs
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Frameworks** | Java, Spring Boot (Data, Security, MVC, Cloud), .NET |
+| **Mensageria & Eventos** | Apache Kafka, RabbitMQ |
+| **Nuvem & Infraestrutura** | AWS (EC2, S3, RDS, Lambda), Docker, GitHub Actions |
+| **Bancos de Dados** | SQL Server, PostgreSQL, Redis |
+| **Práticas & Arquitetura** | Clean Architecture, DDD, Testes Unitários/Integração (JUnit, Mockito) |
 
-🔍 Extração e análise de dados (Pandas, NumPy, Excel)
+---
 
-🏗️ Desenvolvimento back-end com ASP.NET Core
+###  Projetos em Destaque
 
-🛠️ Criação de ferramentas internas e integrações inteligentes
+####  [Control Tel](https://github.com/seu-usuario/control-tel)
+Sistema completo para gerenciamento de linhas telefônicas desenvolvido sob os pilares da **Clean Architecture** e **Java**. 
+* **Destaques Técnicos:** Separação estrita de conceitos, desacoplamento de frameworks e alta cobertura de testes automatizados.
+* **Tech Stack:** Java, Spring Boot, PostgreSQL, JUnit.
 
-📦 Organização de projetos com Clean Architecture
+####  [Portal Débito](https://github.com/seu-usuario/portal-debito)
+Plataforma robusta para processamento e gestão de débitos, desenhada para suportar fluxos intensos de dados.
+* **Destaques Técnicos:** Containerização completa do ambiente, pipeline automatizado de CI/CD via **GitHub Actions** e deploy otimizado.
+* **Tech Stack:** .NET, SQL Server, Docker, GitHub Actions.
 
-📊 Scripts robustos para rotinas administrativas e financeiras
+---
 
-💼 Projetos em andamento
+###  Estatísticas do GitHub
 
-🔹 Automação de sistemas corporativos
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=vortex" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=seu-usuario&layout=compact&langs_count=7&theme=vortex" height="150" alt="Linguagens Mais Usadas" />
+</p>
 
-🔹 APIs em Python e .NET
+---
 
-🔹 Projeto de sublocação de salas (ASP.NET Core + Angular)
+###  Vamos nos conectar?
 
-🔹 Dashboards e análises de dados para processos internos
+Seja para oportunidades profissionais, colaboração em projetos ou apenas para trocar ideias sobre arquitetura de software:
 
-🌐 Onde me encontrar
-<div align="left"> <a href="mailto:cassionascimentovieira@outlook.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0072C6&logoColor=white&style=for-the-badge" height="30"/> </a> <a href="https://www.linkedin.com/in/c%C3%A1ssio-silveira-nascimento-97aa43254" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/> </a> <a href="https://www.instagram.com/cassiosnascimento" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30"/> </a> <a href="https://discord.gg/ce9qruuf" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30"/> </a> </div>
-✨ Sobre mim
-
-🎯 Desenvolvedor focado em resolver problemas reais com código
-
-🚀 Amante de automações e otimização de processos
-
-🧩 Aprendendo continuamente C# e ASP.NET para projetos mais escaláveis
-
-🎨 Curioso, criativo e comprometido com qualidade de código
-
-📈 Aprimorando skills de dados para entregar insights valiosos
-
-💬 Minha filosofia de desenvolvimento
-
-“Programar é transformar lógica em impacto — com clareza, propósito e inteligência.”
-— Cássio Nascimento
+* **LinkedIn:** [linkedin.com/in/devcassio](https://www.linkedin.com/in/devcassio/)
+* **E-mail:** [cassionascimentovieira@outlook.com](mailto:cassionascimentovieira@outlook.com)
