@@ -1,47 +1,59 @@
-# Olá, eu sou o Cassio Nascimento 
+<div align="center">
 
-Como desenvolvedor backend especializado no ecossistema Java, meu foco é construir sistemas de alta disponibilidade, escaláveis e com código limpo. Tenho sólida experiência aplicando princípios de **Clean Architecture** e **Domain-Driven Design (DDD)** para transformar requisitos de negócio complexos em software robusto e de fácil manutenção.
+  <!-- BANNER / HEADER COM AS CORES DO SITE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F0D0B&height=150&section=header&text=CASSIO%20NASCIMENTO&fontSize=46&fontColor=E5A93C&fontAlignY=42&desc=%E2%97%8F%20%20BACKEND%20.NET%20DEVELOPER%20%C2%B7%20PLENO%20%20%E2%97%8F&descSize=15&descAlignY=72&descColor=A39E93" width="100%" alt="Cassio Nascimento - Backend .NET Developer" />
 
----
+  <br/>
 
-###  Tecnologias e Ferramentas
+  <!-- TAGS DE DESTAQUE IGUAIS AO HERO DO SITE -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/C%23-1A1713?style=for-the-badge&logo=csharp&logoColor=E5A93C&labelColor=0F0D0B" alt="C#" />
+    <img src="https://img.shields.io/badge/.NET%208-1A1713?style=for-the-badge&logo=dotnet&logoColor=E5A93C&labelColor=0F0D0B" alt=".NET 8" />
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-1A1713?style=for-the-badge&logo=dotnet&logoColor=E5A93C&labelColor=0F0D0B" alt="ASP.NET Core" />
+    <img src="https://img.shields.io/badge/Clean%20Architecture-1A1713?style=for-the-badge&logoColor=E5A93C&labelColor=0F0D0B" alt="Clean Architecture" />
+    <img src="https://img.shields.io/badge/DDD-1A1713?style=for-the-badge&logoColor=E5A93C&labelColor=0F0D0B" alt="DDD" />
+    <img src="https://img.shields.io/badge/CQRS-1A1713?style=for-the-badge&logoColor=E5A93C&labelColor=0F0D0B" alt="CQRS" />
+  </p>
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens & Frameworks** | Java, Spring Boot (Data, Security, MVC, Cloud), .NET |
-| **Mensageria & Eventos** | Apache Kafka, RabbitMQ |
-| **Nuvem & Infraestrutura** | AWS (EC2, S3, RDS, Lambda), Docker, GitHub Actions |
-| **Bancos de Dados** | SQL Server, PostgreSQL, Redis |
-| **Práticas & Arquitetura** | Clean Architecture, DDD, Testes Unitários/Integração (JUnit, Mockito) |
+  <!-- BIO CURTA DE IMPACTO -->
+  <p align="center">
+    <b>Construindo aplicações corporativas, APIs e arquiteturas backend com C#, .NET e engenharia de software orientada ao negócio.</b>
+  </p>
 
----
+  <!-- BOTÕES DE CONEXÃO RÁPIDA PARA RECRUTADORES -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/devcassio/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-E5A93C?style=for-the-badge&logo=linkedin&logoColor=0F0D0B&labelColor=E5A93C" alt="LinkedIn" />
+    </a>
+    <a href="mailto:cassionascimentovieira@outlook.com">
+      <img src="https://img.shields.io/badge/E--mail-Falar%20Comigo-1A1713?style=for-the-badge&logo=microsoftoutlook&logoColor=E5A93C&labelColor=1A1713" alt="Email" />
+    </a>
+  </p>
 
-###  Projetos em Destaque
-
-####  [Control Tel](https://github.com/seu-usuario/control-tel)
-Sistema completo para gerenciamento de linhas telefônicas desenvolvido sob os pilares da **Clean Architecture** e **Java**. 
-* **Destaques Técnicos:** Separação estrita de conceitos, desacoplamento de frameworks e alta cobertura de testes automatizados.
-* **Tech Stack:** Java, Spring Boot, PostgreSQL, JUnit.
-
-####  [Portal Débito](https://github.com/seu-usuario/portal-debito)
-Plataforma robusta para processamento e gestão de débitos, desenhada para suportar fluxos intensos de dados.
-* **Destaques Técnicos:** Containerização completa do ambiente, pipeline automatizado de CI/CD via **GitHub Actions** e deploy otimizado.
-* **Tech Stack:** .NET, SQL Server, Docker, GitHub Actions.
-
----
-
-###  Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=vortex" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=seu-usuario&layout=compact&langs_count=7&theme=vortex" height="150" alt="Linguagens Mais Usadas" />
-</p>
+</div>
 
 ---
 
-###  Vamos nos conectar?
+### `>//` Perfil & Engenharia de Software
 
-Seja para oportunidades profissionais, colaboração em projetos ou apenas para trocar ideias sobre arquitetura de software:
+Como desenvolvedor backend especializado no ecossistema **.NET**, meu foco é desenhar e construir sistemas corporativos escaláveis, resilientes e de fácil manutenção. Aplico **Clean Architecture**, **Domain-Driven Design (DDD)**, **CQRS** e princípios **SOLID** para isolar regras de negócio complexas de detalhes de infraestrutura, garantindo entregas seguras e testáveis.
 
-* **LinkedIn:** [linkedin.com/in/devcassio](https://www.linkedin.com/in/devcassio/)
-* **E-mail:** [cassionascimentovieira@outlook.com](mailto:cassionascimentovieira@outlook.com)
+```csharp
+[ApiController]
+[Route("api/v{version}/[controller]")]
+public class ProfileController : ControllerBase
+{
+    private readonly ISender _mediator;
+
+    public ProfileController(ISender mediator) => _mediator = mediator;
+
+    [HttpGet("about-me")]
+    public IActionResult GetProfile() => Ok(new 
+    {
+        Developer = "Cassio Nascimento",
+        Role = "Backend .NET Developer Pleno",
+        CoreStack = new[] { "C#", ".NET 8", "ASP.NET Core", "EF Core" },
+        Architecture = new[] { "Clean Architecture", "DDD", "CQRS", "MediatR", "SOLID" },
+        MessagingAndData = new[] { "SQL Server", "PostgreSQL", "Redis", "RabbitMQ", "Kafka" }
+    });
+}
