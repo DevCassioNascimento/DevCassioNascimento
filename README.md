@@ -179,4 +179,208 @@
 <!-- ================================================= -->
 <!-- ◆ STACK TECNOLÓGICA (BENTO GRID 2x3)              -->
 <!-- ================================================= -->
-<img src="
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F0D0B&height=48&section=header&text=%E2%97%86%20STACK%20TECNOL%C3%93GICA&fontSize=18&fontColor=E5A93C&fontAlignY=56" width="100%" />
+
+<table>
+  <tr>
+    <!-- BACKEND -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/01-BACKEND-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,kafka&theme=dark" />
+      </p>
+      <ul>
+        <li>C#</li>
+        <li>.NET 8 / ASP.NET Core</li>
+        <li>Entity Framework Core</li>
+        <li>Dapper</li>
+        <li>REST APIs</li>
+        <li>Injeção de Dependência</li>
+        <li>Middleware</li>
+        <li>Autenticação e autorização com JWT</li>
+      </ul>
+    </td>
+    <!-- BANCO DE DADOS -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/02-BANCO%20DE%20DADOS-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+      </p>
+      <ul>
+        <li>SQL Server</li>
+        <li>PostgreSQL</li>
+        <li>Redis</li>
+        <li>Modelagem relacional</li>
+        <li>Indexação e otimização de consultas</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <!-- ARQUITETURA E ENGENHARIA DE SOFTWARE -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03-ARQUITETURA%20E%20ENGENHARIA%20DE%20SOFTWARE-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <ul>
+        <li>Clean Architecture</li>
+        <li>Domain-Driven Design (DDD)</li>
+        <li>CQRS</li>
+        <li>SOLID</li>
+        <li>Design Patterns</li>
+        <li>Microsserviços</li>
+        <li>Event-Driven Architecture</li>
+        <li>Separação de responsabilidades</li>
+      </ul>
+    </td>
+    <!-- MENSAGERIA E INTEGRAÇÃO -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04-MENSAGERIA%20E%20INTEGRA%C3%87%C3%83O-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" />
+      </p>
+      <ul>
+        <li>RabbitMQ</li>
+        <li>Apache Kafka</li>
+        <li>Comunicação assíncrona</li>
+        <li>Integração entre serviços</li>
+        <li>Processamento de eventos</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <!-- DEVOPS E FERRAMENTAS -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/05-DEVOPS%20E%20FERRAMENTAS-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git,github,vscode,vs&theme=dark" />
+      </p>
+      <ul>
+        <li>Docker e Docker Compose</li>
+        <li>Git e GitHub</li>
+        <li>GitHub Actions</li>
+        <li>AWS</li>
+        <li>Linux</li>
+        <li>CI/CD</li>
+      </ul>
+    </td>
+    <!-- TESTES E QUALIDADE -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/06-TESTES%20E%20QUALIDADE-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <ul>
+        <li>xUnit</li>
+        <li>NUnit</li>
+        <li>Moq</li>
+        <li>FluentAssertions</li>
+        <li>Testes unitários</li>
+        <li>Testes de integração</li>
+        <li>TDD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================================================= -->
+<!-- ◆ ARQUITETURA DE SOFTWARE (VIEW LADO A LADO)      -->
+<!-- ================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F0D0B&height=48&section=header&text=%E2%97%86%20ARQUITETURA%20DE%20SOFTWARE&fontSize=18&fontColor=E5A93C&fontAlignY=56" width="100%" />
+
+<p align="center">
+  Minha abordagem de organização de projetos prioriza separação de responsabilidades, baixo acoplamento e independência entre regras de negócio e infraestrutura.
+</p>
+
+<table>
+  <tr>
+    <td width="48%" valign="top">
+      <img src="https://img.shields.io/badge/ESTRUTURA-SOLUTION%20EXPLORER-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+<pre>
+src/
+│
+├── API/
+│   ├── Controllers/
+│   ├── Middlewares/
+│   ├── Configurations/
+│   └── Extensions/
+│
+├── Application/
+│   ├── Commands/
+│   ├── Queries/
+│   ├── Handlers/
+│   ├── DTOs/
+│   └── Validators/
+│
+├── Domain/
+│   ├── Entities/
+│   ├── ValueObjects/
+│   ├── Aggregates/
+│   ├── Events/
+│   └── Interfaces/
+│
+└── Infrastructure/
+    ├── Persistence/
+    ├── Repositories/
+    ├── Messaging/
+    └── Services/
+</pre>
+    </td>
+    <td width="52%" valign="top">
+      <img src="https://img.shields.io/badge/DIRETRIZES-PRINC%C3%8DPIOS%20FUNDAMENTAIS-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" />
+      <br/><br/>
+      <ul>
+        <li><b>Domínio Isolado:</b> O domínio não depende de detalhes externos.</li>
+        <li><b>Orquestração:</b> A camada Application coordena os casos de uso.</li>
+        <li><b>Interface:</b> A API é responsável pela comunicação com os clientes.</li>
+        <li><b>Persistência & Externos:</b> A Infrastructure implementa os detalhes técnicos.</li>
+        <li><b>Regra de Dependência:</b> As dependências apontam para o núcleo da aplicação.</li>
+      </ul>
+      <hr/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/API-ASP.NET%20Core-0F0D0B?style=flat-square&labelColor=E5A93C" />
+        <img src="https://img.shields.io/badge/App-CQRS%20%2F%20MediatR-0F0D0B?style=flat-square&labelColor=E5A93C" />
+        <img src="https://img.shields.io/badge/Domain-DDD%20Core-0F0D0B?style=flat-square&labelColor=E5A93C" />
+        <img src="https://img.shields.io/badge/Infra-EF%20Core%20%2F%20Data-0F0D0B?style=flat-square&labelColor=E5A93C" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================================================= -->
+<!-- ◆ FORMAÇÃO                                        -->
+<!-- ================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F0D0B&height=48&section=header&text=%E2%97%86%20FORMA%C3%87%C3%83O%20ACAD%C3%8AMICA&fontSize=18&fontColor=E5A93C&fontAlignY=56" width="100%" />
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/P%C3%93S--GRADUA%C3%87%C3%83O-ESPECIALIZA%C3%87%C3%83O-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" /><br/><br/>
+      <b>Pós-graduação em Arquitetura de Software</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/GRADUA%C3%87%C3%83O-ENSINO%20SUPERIOR-0F0D0B?style=for-the-badge&labelColor=E5A93C" width="100%" /><br/><br/>
+      <b>Graduação em Análise e Desenvolvimento de Sistemas</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================================================= -->
+<!-- ◆ CONECTE-SE COMIGO                               -->
+<!-- ================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F0D0B&height=48&section=header&text=%E2%97%86%20CONECTE-SE%20COMIGO&fontSize=18&fontColor=E5A93C&fontAlignY=56" width="100%" />
+
+<div align="center">
+  <br/>
+  <p>Estou aberto a conexões profissionais, oportunidades na área de desenvolvimento Backend e desafios de engenharia de software.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/devcassio/">
+      <img src="https://img.shields.io/badge/LINKEDIN-Conectar-E5A93C?style=for-the-badge&logo=linkedin&logoColor=E5A93C&labelColor=0F0D0B" height="40" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:cassionascimentovieira@outlook.com">
+      <img src="https://img.shields.io/badge/E--MAIL-Enviar%20mensagem-E5A93C?style=for-the-badge&logo=microsoftoutlook&logoColor=E5A93C&labelColor=0F0D0B" height="40" />
+    </a>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0D0B&height=110&section=footer&text=ENGENHARIA%20BACKEND%20%7C%20C%23%20%7C%20.NET&fontSize=19&fontColor=E5A93C&fontAlignY=65" width="100%" />
+</div>
