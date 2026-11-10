@@ -81,70 +81,73 @@
 </p>
 
 <!-- PROJETO DESTAQUE 01 (CARD PRINCIPAL EM DUAS COLUNAS) -->
-<table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1713&amp;height=145&amp;section=header&amp;text=01.%20EVOLUIRSUB&amp;fontSize=38&amp;fontColor=E5A93C&amp;fontAlign=50&amp;fontAlignY=42&amp;desc=GEST%C3%83O%20DE%20SALAS%20%20%7C%20%20FULL%20STACK&amp;descSize=14&amp;descAlign=50&amp;descAlignY=72&amp;descColor=D8C9AE" width="100%" alt="01. EvoluirSub — Gestão de salas | Full stack" />
+</p>
+
+<p align="center">
+  <b>Da disponibilidade da sala ao controle das reservas.</b><br/>
+  Gestão de locação por data e horário, com painel administrativo<br/>
+  e relatórios de horas e valores para profissionais e gestores.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23%20%C2%B7%20.NET%2010-E5A93C?style=flat-square&amp;labelColor=1A1713" alt="C# e .NET 10" />
+  <img src="https://img.shields.io/badge/EF%20Core%20%C2%B7%20SQL%20Server-1A1713?style=flat-square" alt="EF Core e SQL Server" />
+  <img src="https://img.shields.io/badge/React%20%C2%B7%20TypeScript-E5A93C?style=flat-square" alt="React e TypeScript" />
+  <img src="https://img.shields.io/badge/Vite%20%C2%B7%20Radix%20UI-1A1713?style=flat-square" alt="Vite e Radix UI" />
+</p>
+
+<br/>
+
+<table align="center" width="100%">
   <tr>
-    <td colspan="2">
-      <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1713&amp;height=55&amp;section=header&amp;text=01.%20EVOLUIRSUB%20%7C%20GEST%C3%83O%20DE%20SALAS&amp;fontSize=18&amp;fontColor=E5A93C&amp;fontAlignY=55" width="100%" alt="01. EvoluirSub | Gestão de salas" />
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/01%20%20ARQUITETURA-E5A93C?style=for-the-badge" alt="01 Arquitetura" />
+      <p><b>Responsabilidades bem separadas</b></p>
+      <p>API, Application, Domain e Infrastructure.<br/>Injeção de dependências, DTOs<br/>e repositórios por interfaces.</p>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/02%20%20REGRAS%20DE%20NEG%C3%93CIO-E5A93C?style=for-the-badge" alt="02 Regras de negócio" />
+      <p><b>Agendamento com validação de conflitos</b></p>
+      <p>Verificação de sobreposição de horários.<br/>Reservas retroativas administrativas<br/>com responsável e justificativa.</p>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td width="52%" valign="top">
-      <p><b>Descrição:</b><br/>Aplicação full stack para gestão de locação de salas por data e horário. Centraliza a consulta de disponibilidade, o agendamento e o acompanhamento de horas e valores, com interfaces para profissionais e administradores.</p>
-      <p><b>Destaques técnicos:</b></p>
-      <ul>
-        <li><b>Backend em camadas:</b> API REST em .NET 10, com separação entre domínio, aplicação e infraestrutura, injeção de dependências, DTOs e repositórios por interfaces.</li>
-        <li><b>Regras de negócio:</b> validação de sobreposição de horários e disponibilidade das salas; reservas retroativas administrativas com registro de responsável e justificativa.</li>
-        <li><b>Autenticação e permissões:</b> JWT com claims de usuário e perfil, além de endpoints administrativos protegidos por autorização baseada em roles.</li>
-        <li><b>Consultas otimizadas:</b> cache em memória no catálogo de salas, consultas de leitura com AsNoTracking e acesso assíncrono ao SQL Server via Entity Framework Core.</li>
-        <li><b>Experiência completa:</b> frontend React com TypeScript, painel administrativo e relatórios mensais de horas e valores, com exportação CSV e impressão para PDF.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/DevCassioNascimento/EvoluirSub">
-          <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório do EvoluirSub" />
-        </a>
-        <a href="https://github.com/DevCassioNascimento/EvoluirSub#readme">
-          <img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação do EvoluirSub" />
-        </a>
-      </p>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/03%20%20ACESSO%20E%20GEST%C3%83O-E5A93C?style=for-the-badge" alt="03 Acesso e gestão" />
+      <p><b>Fluxos para profissionais e administradores</b></p>
+      <p>Autenticação JWT e autorização por perfil.<br/>Relatórios mensais de horas e valores,<br/>exportação CSV e impressão para PDF.</p>
+      <br/>
     </td>
-    <td width="48%" valign="top">
-      <table>
-        <thead>
-          <tr>
-            <th align="left">Informação</th>
-            <th align="left">Descrição</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>Categoria</b></td>
-            <td>Sistema de gestão full stack · Locação e agendamento de salas</td>
-          </tr>
-          <tr>
-            <td><b>Arquitetura</b></td>
-            <td>Camadas: API, Application, Domain e Infrastructure · Repository Pattern · Injeção de dependências</td>
-          </tr>
-          <tr>
-            <td><b>Backend</b></td>
-            <td><code>C#</code> · <code>.NET 10</code> · <code>ASP.NET Core</code> · <code>EF Core</code> · <code>SQL Server</code> · <code>JWT</code></td>
-          </tr>
-          <tr>
-            <td><b>Frontend</b></td>
-            <td><code>React 18</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Radix UI</code></td>
-          </tr>
-          <tr>
-            <td><b>Persistência</b></td>
-            <td>Banco relacional com migrations do EF Core e consultas assíncronas</td>
-          </tr>
-          <tr>
-            <td><b>Principal desafio</b></td>
-            <td>Modelar a disponibilidade por sala, data e intervalo de horário, validando conflitos e regras específicas para profissionais e administradores.</td>
-          </tr>
-        </tbody>
-      </table>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/04%20%20DADOS%20E%20CONSULTAS-E5A93C?style=for-the-badge" alt="04 Dados e consultas" />
+      <p><b>Otimizações no acesso aos dados</b></p>
+      <p>Cache em memória no catálogo de salas.<br/>Leituras com AsNoTracking, operações<br/>assíncronas e migrations com EF Core.</p>
+      <br/>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <b>DESAFIO TÉCNICO</b><br/>
+  Modelar a disponibilidade por sala, data e intervalo de horário,<br/>
+  respeitando as regras de reserva de cada perfil de usuário.
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevCassioNascimento/EvoluirSub"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório" /></a>
+  &nbsp;
+  <a href="https://github.com/DevCassioNascimento/EvoluirSub#readme"><img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação" /></a>
+</p>
 
 <!-- PROJETOS DESTAQUE 02 E 03 (LADO A LADO ESTILO GRID) -->
 <table>
