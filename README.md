@@ -84,24 +84,26 @@
 <table>
   <tr>
     <td colspan="2">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1713&height=55&section=header&text=01.%20%5BNOME%20DO%20PROJETO%20PRINCIPAL%5D&fontSize=18&fontColor=E5A93C&fontAlignY=55" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1713&amp;height=55&amp;section=header&amp;text=01.%20EVOLUIRSUB%20%7C%20GEST%C3%83O%20DE%20SALAS&amp;fontSize=18&amp;fontColor=E5A93C&amp;fontAlignY=55" width="100%" alt="01. EvoluirSub | Gestão de salas" />
     </td>
   </tr>
   <tr>
     <td width="52%" valign="top">
-      <p><b>Descrição:</b><br/>[Breve descrição do problema que o projeto resolve.]</p>
+      <p><b>Descrição:</b><br/>Aplicação full stack para gestão de locação de salas por data e horário. Centraliza a consulta de disponibilidade, o agendamento e o acompanhamento de horas e valores, com interfaces para profissionais e administradores.</p>
       <p><b>Destaques técnicos:</b></p>
       <ul>
-        <li>[Decisão arquitetural importante]</li>
-        <li>[Integração ou funcionalidade relevante]</li>
-        <li>[Testes, segurança ou otimização implementada]</li>
+        <li><b>Backend em camadas:</b> API REST em .NET 10, com separação entre domínio, aplicação e infraestrutura, injeção de dependências, DTOs e repositórios por interfaces.</li>
+        <li><b>Regras de negócio:</b> validação de sobreposição de horários e disponibilidade das salas; reservas retroativas administrativas com registro de responsável e justificativa.</li>
+        <li><b>Autenticação e permissões:</b> JWT com claims de usuário e perfil, além de endpoints administrativos protegidos por autorização baseada em roles.</li>
+        <li><b>Consultas otimizadas:</b> cache em memória no catálogo de salas, consultas de leitura com AsNoTracking e acesso assíncrono ao SQL Server via Entity Framework Core.</li>
+        <li><b>Experiência completa:</b> frontend React com TypeScript, painel administrativo e relatórios mensais de horas e valores, com exportação CSV e impressão para PDF.</li>
       </ul>
       <p>
-        <a href="LINK_DO_REPOSITORIO">
-          <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&logo=github&logoColor=E5A93C&labelColor=0F0D0B" />
+        <a href="https://github.com/DevCassioNascimento/EvoluirSub">
+          <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório do EvoluirSub" />
         </a>
-        <a href="LINK_DA_DEMO_OU_DOCUMENTACAO">
-          <img src="https://img.shields.io/badge/DEMO%20%2F%20DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&logo=googlechrome&logoColor=E5A93C" />
+        <a href="https://github.com/DevCassioNascimento/EvoluirSub#readme">
+          <img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação do EvoluirSub" />
         </a>
       </p>
     </td>
@@ -116,19 +118,27 @@
         <tbody>
           <tr>
             <td><b>Categoria</b></td>
-            <td>[Ex.: Sistema corporativo / API / Microsserviços]</td>
+            <td>Sistema de gestão full stack · Locação e agendamento de salas</td>
           </tr>
           <tr>
             <td><b>Arquitetura</b></td>
-            <td>[Ex.: Clean Architecture / DDD]</td>
+            <td>Camadas: API, Application, Domain e Infrastructure · Repository Pattern · Injeção de dependências</td>
           </tr>
           <tr>
-            <td><b>Tecnologias</b></td>
-            <td><code>C#</code> · <code>.NET</code> · <code>SQL Server</code> · <code>Docker</code></td>
+            <td><b>Backend</b></td>
+            <td><code>C#</code> · <code>.NET 10</code> · <code>ASP.NET Core</code> · <code>EF Core</code> · <code>SQL Server</code> · <code>JWT</code></td>
+          </tr>
+          <tr>
+            <td><b>Frontend</b></td>
+            <td><code>React 18</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Radix UI</code></td>
+          </tr>
+          <tr>
+            <td><b>Persistência</b></td>
+            <td>Banco relacional com migrations do EF Core e consultas assíncronas</td>
           </tr>
           <tr>
             <td><b>Principal desafio</b></td>
-            <td>[Descreva o desafio técnico]</td>
+            <td>Modelar a disponibilidade por sala, data e intervalo de horário, validando conflitos e regras específicas para profissionais e administradores.</td>
           </tr>
         </tbody>
       </table>
