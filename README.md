@@ -227,9 +227,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevCassioNascimento/EventoFlow"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório do EventoFlow" /></a>
+  <a href="https://github.com/DevCassioNascimento/EventFlow"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório do EventFlow" /></a>
   &nbsp;
-  <a href="https://github.com/DevCassioNascimento/EventoFlow#readme"><img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação do EventoFlow" /></a>
+  <a href="https://github.com/DevCassioNascimento/EventFlow#readme"><img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação do EventFlow" /></a>
 </p>
 
 <!-- PROJETOS DESTAQUE 02 E 03 (LADO A LADO ESTILO GRID) -->
