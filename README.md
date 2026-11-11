@@ -149,6 +149,89 @@
   <a href="https://github.com/DevCassioNascimento/EvoluirSub#readme"><img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação" /></a>
 </p>
 
+<!-- PROJETO DESTAQUE 02 (CARD PRINCIPAL EM DUAS COLUNAS) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1713&amp;height=145&amp;section=header&amp;text=02.%20EVENTOFLOW&amp;fontSize=38&amp;fontColor=E5A93C&amp;fontAlign=50&amp;fontAlignY=42&amp;desc=GEST%C3%83O%20DE%20EVENTOS%20%20%7C%20%20FULL%20STACK&amp;descSize=14&amp;descAlign=50&amp;descAlignY=72&amp;descColor=D8C9AE" width="100%" alt="02. EventoFlow — Gestão de eventos | Full stack" />
+</p>
+
+<p align="center">
+  <b>Do planejamento à execução, cada responsabilidade no seu lugar.</b><br/>
+  Gestão integrada de eventos, equipes, orçamentos e logística,<br/>
+  com fluxos de aprovação e acesso por perfil, departamento e equipe.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23%20%C2%B7%20.NET%2010-E5A93C?style=flat-square&amp;labelColor=1A1713" alt="C# e .NET 10" />
+  <img src="https://img.shields.io/badge/EF%20Core%20%C2%B7%20SQL%20Server-1A1713?style=flat-square" alt="EF Core e SQL Server" />
+  <img src="https://img.shields.io/badge/React%20%C2%B7%20TypeScript-E5A93C?style=flat-square" alt="React e TypeScript" />
+  <img src="https://img.shields.io/badge/Entra%20ID%20%C2%B7%20CQRS-1A1713?style=flat-square" alt="Microsoft Entra ID e CQRS" />
+</p>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/01%20%20ARQUITETURA-E5A93C?style=for-the-badge" alt="01 Arquitetura" />
+      <p><b>Casos de uso separados com CQRS</b></p>
+      <p>API, Application, Domain e Infrastructure.<br/>
+      Mediador próprio com validação de entrada,<br/>
+      repositórios por interfaces e Unit of Work.</p>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/02%20%20REGRAS%20DE%20NEG%C3%93CIO-E5A93C?style=for-the-badge" alt="02 Regras de negócio" />
+      <p><b>Decisões protegidas pelo domínio</b></p>
+      <p>Contratação de orçamento exige aprovação.<br/>
+      Eventos encerrados bloqueiam alterações.<br/>
+      Entidades validam estados, períodos e vínculos.</p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/03%20%20IDENTIDADE%20E%20ACESSO-E5A93C?style=for-the-badge" alt="03 Identidade e acesso" />
+      <p><b>Permissões por operação e recurso</b></p>
+      <p>Integração com Microsoft Entra ID.<br/>
+      Acesso por perfil, departamento e equipe,<br/>
+      com filtros de dados aplicados no backend.</p>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/04%20%20TESTES%20E%20QUALIDADE-E5A93C?style=for-the-badge" alt="04 Testes e qualidade" />
+      <p><b>Regras e isolamento de acesso em teste</b></p>
+      <p>xUnit para domínio, aplicação e segurança HTTP.<br/>
+      Integração com SQL Server e migrations.<br/>
+      Vitest para contratos HTTP e sessões do cliente.</p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <b>DESAFIO TÉCNICO</b><br/>
+  Coordenar operação e aprovação em um mesmo evento, garantindo que<br/>
+  cada usuário consulte e altere apenas os recursos permitidos pelo seu perfil e vínculos.
+</p>
+
+<p align="center">
+  <b>EXPLORE NA PRÁTICA</b><br/>
+  Login local de desenvolvimento com múltiplos usuários<br/>
+  e roteiro no README para comparar permissões e percorrer os fluxos do sistema.
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevCassioNascimento/EventoFlow"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=E5A93C&amp;labelColor=0F0D0B" alt="Ver repositório do EventoFlow" /></a>
+  &nbsp;
+  <a href="https://github.com/DevCassioNascimento/EventoFlow#readme"><img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-1A1713?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=E5A93C" alt="Ver documentação do EventoFlow" /></a>
+</p>
+
 <!-- PROJETOS DESTAQUE 02 E 03 (LADO A LADO ESTILO GRID) -->
 <table>
   <tr>
